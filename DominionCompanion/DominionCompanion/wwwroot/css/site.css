@@ -1,0 +1,14 @@
+﻿body {
+    background-color: green;
+}
+
+.button-container{
+    width: 300px;
+}
+
+.overview {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
